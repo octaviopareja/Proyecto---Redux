@@ -1,24 +1,9 @@
 {
   "productos": [
     {
-      "id": 1,
-      "nombre": "Jugo de Zanahoria",
-      "precio": "31111"
-    },
-    {
-      "id": 2,
-      "nombre": "Jugo de Naranja",
-      "precio": "1"
-    },
-    {
       "nombre": "Jugo de Naranja",
       "precio": "300",
       "id": 3
-    },
-    {
-      "nombre": "Rib Eye 800g",
-      "precio": "200",
-      "id": 4
     },
     {
       "nombre": "Jugo de Fresa",
@@ -39,21 +24,6 @@
       "nombre": "asdad",
       "precio": 400,
       "id": 8
-    },
-    {
-      "nombre": "asdad",
-      "precio": 12312,
-      "id": 9
-    },
-    {
-      "nombre": "asdasd",
-      "precio": 123,
-      "id": 10
-    },
-    {
-      "nombre": "asdasd",
-      "precio": 123,
-      "id": 11
     }
   ]
 }
